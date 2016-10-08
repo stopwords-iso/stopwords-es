@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-es",
+  "description": "The most comprehensive collection of stopwords for the spanish language.",
+  "keywords": [
+    "spanish",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-es",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-es.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
